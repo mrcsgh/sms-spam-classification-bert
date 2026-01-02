@@ -8,7 +8,7 @@ More than 5500 real text labeled examples. Dataset created by Tiago A. Almeida a
 * **Data Visualization:** Several charts show relevant data features.
 * **Transformer-based:** Leverages `bert-base-cased` for deep contextual understanding.
 * **Optimized Training:** Implements a **Linear Learning Rate Scheduler** with a peak LR of 2e-5, decaying to zero to ensure stable convergence and prevent overfitting.
-* **High Performance:** Reached **98.2% accuracy** on the test set.
+* **High Performance:** Reached **98.0% accuracy** on the test set.
 * **Ready for Production:** Model weights are hosted on Hugging Face for easy integration.
 
 ## 📊 Results
