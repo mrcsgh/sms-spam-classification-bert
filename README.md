@@ -1,5 +1,5 @@
 # sms-spam-classification-bert
-High-precision SMS Spam detection system using BERT. Achieved 98.2% accuracy through fine-tuning with PyTorch and Transformers.
+High-precision SMS Spam detection system using BERT. Achieved 98.0% accuracy through fine-tuning with PyTorch and Transformers.
 
 ## 📚 About Data
 More than 5500 real text labeled examples. Dataset created by Tiago A. Almeida and José M. Gómez Hidalgo available [here](https://archive.ics.uci.edu/dataset/228/sms+spam+collection).
